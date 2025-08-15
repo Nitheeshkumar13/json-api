@@ -4,7 +4,7 @@
       "id": 1,
       "name": "HTML",
       "price": 199,
-      "image": "http://localhost:3000/assets/HTML.jpeg"
+      "image": "https://json-api-390y.onrender.com/assets/HTML.jpeg"
 ,
       "rating": 5
     },
@@ -12,21 +12,21 @@
       "id": 2,
       "name": "CSS",
       "price": 199,
-      "image": "http://localhost:3000/assets/CSS.jpeg",
+      "image": "https://json-api-390y.onrender.com/assets/CSS.jpeg",
       "rating": 5
     },
     {
       "id": 3,
       "name": "JS",
       "price": 499,
-      "image": "http://localhost:3000/assets/JS.jpeg",
+      "image": "https://json-api-390y.onrender.com/assets/JS.jpeg",
       "rating": 5
     },
     {
       "id": 4,
       "name": "React",
       "price": 999,
-      "image": "http://localhost:3000/assets/REACT.jpeg",
+      "image": "https://json-api-390y.onrender.com/assets/REACT.jpeg",
       "rating": 5
     }
   ]
